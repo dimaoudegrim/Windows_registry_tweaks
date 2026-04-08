@@ -1,3 +1,5 @@
+Disclaimer: I used Perplexity for summerize the titles or description in this readme.
+
 ----🚀 Performance & Memory----
 *	MaxCachedIcons = 4096 — Increases the icon cache size so Windows stores more icons, reducing reloading lag
 *	WaitForIdleState = 0 (both HKLM & HKCU) — Removes the idle-wait requirement before Explorer starts loading, speeding up startup
