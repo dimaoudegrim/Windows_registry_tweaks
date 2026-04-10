@@ -100,7 +100,7 @@ I've seperated what each file does in this readme. while the first part is for t
 
 
 ---------------------
--SCRIPT FOR DEBLOAT--
+-SCRIPT FOR DEBLOAT-
 ---------------------
 The script will uninstall the following apps:
 
