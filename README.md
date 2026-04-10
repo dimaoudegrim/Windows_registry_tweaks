@@ -4,7 +4,7 @@ In this repo I have 2 main files. One of them is a registry file that needs to o
 I've seperated what each file does in this readme. while the first part is for the reg file, and the second part will include the script.
 
 ----------------
--REGISTRY FILE:-
+REGISTRY FILE:
 ----------------
 
 -----Performance & Memory-----
@@ -100,7 +100,7 @@ I've seperated what each file does in this readme. while the first part is for t
 
 
 ---------------------
--SCRIPT FOR DEBLOAT-
+SCRIPT FOR DEBLOAT
 ---------------------
 The script will uninstall the following apps:
 
