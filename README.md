@@ -21,7 +21,7 @@ REGISTRY FILE: 136 CONFIGURATIONS.
 - Sets the Font Cache service to start automatically so fonts load faster.
 - Reduces the menu popup hover delay to 100ms.
 - Increases the icon cache size so Explorer renders icons faster without re-loading them.
-- Increases the service startup pipe timeout to 30 seconds to give slower services more time to initialize.
+- Increases the service startup pipe timeout to 45 seconds to give slower services more time to initialize.
 
 ### 🎮 Gaming & Multimedia
 - Allocates more CPU time to multimedia tasks to reduce system responsiveness overhead.
