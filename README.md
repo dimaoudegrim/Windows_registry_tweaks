@@ -53,8 +53,8 @@ REGISTRY FILE: 137 CONFIGURATIONS.
 - Disables Cortana entirely.
 - Disables Windows Error Reporting so no crash reports are sent to Microsoft.
 - Disable Tailored Experiences With Diagnostic Data Enabled
-- Disable Location
-- Disable Location Scripting
+- Disable Location sensors
+- Disable Location sensor Scripting
 
 ### 🔎 Search, Start & Interface
 - Disables Bing-powered web results in the Start menu search.
